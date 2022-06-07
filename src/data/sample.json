@@ -1,0 +1,312 @@
+{
+    "married_females": [
+        423.0,
+        442.0,
+        616.0
+    ],
+    "indig_females": [
+        7.0,
+        16.0,
+        19.0
+    ],
+    "dwelling_owned_mortgage_percent": [
+        16.195652173913043,
+        23.262548262548265,
+        29.184549356223176
+    ],
+    "median_age": [
+        43.0,
+        47.0,
+        45.0
+    ],
+    "dwelling_owned_outright_percent": [
+        55.00000000000001,
+        49.13127413127413,
+        44.34907010014306
+    ],
+    "percent_notmarried_males": [
+        35.64102564102564,
+        35.011990407673856,
+        36.262798634812285
+    ],
+    "non_indig_males": [
+        1026.0,
+        1072.0,
+        1514.0
+    ],
+    "non_indig_females": [
+        987.0,
+        1073.0,
+        1482.0
+    ],
+    "female": [
+        1039.0,
+        1128.0,
+        1606.0
+    ],
+    "year": [
+        2006,
+        2011,
+        2016
+    ],
+    "median_mortgage": [
+        733.0,
+        935.0,
+        1517.0
+    ],
+    "dwelling_owned_outright": [
+        506.0,
+        509.0,
+        620.0
+    ],
+    "total_relationship_females": [
+        793.0,
+        856.0,
+        1156.0
+    ],
+    "dwelling_owned_mortgage": [
+        149.0,
+        241.0,
+        408.0
+    ],
+    "total_relationship_persons": [
+        1573.0,
+        1690.0,
+        2328.0
+    ],
+    "persons_per_bedroom": [
+        1.1,
+        1.1,
+        1.1
+    ],
+    "percent_married_males": [
+        54.74358974358975,
+        52.27817745803357,
+        52.986348122866886
+    ],
+    "median_household_income": [
+        557.0,
+        714.0,
+        913.0
+    ],
+    "percent_defacto_males": [
+        9.615384615384617,
+        12.709832134292565,
+        10.750853242320819
+    ],
+    "average_household_size": [
+        2.3,
+        2.2,
+        2.3
+    ],
+    "total_indig_status_persons": [
+        2096.0,
+        2275.0,
+        3251.0
+    ],
+    "dwelling_rented_percent": [
+        21.630434782608695,
+        19.305019305019304,
+        1.3590844062947067
+    ],
+    "married_males": [
+        427.0,
+        436.0,
+        621.0
+    ],
+    "indig_males": [
+        0.0,
+        18.0,
+        25.0
+    ],
+    "notmarried_females": [
+        297.0,
+        311.0,
+        406.0
+    ],
+    "languages": [
+        "[{'persons': 7.0, 'persons_percent': 0.33159639981051636, 'language': u'Cantonese'}, {'persons': 6.0, 'persons_percent': 0.28422548555187116, 'language': u'French'}, {'persons': 6.0, 'persons_percent': 0.28422548555187116, 'language': u'Italian'}, {'persons': 6.0, 'persons_percent': 0.28422548555187116, 'language': u'Polish'}, {'persons': 6.0, 'persons_percent': 0.28422548555187116, 'language': u'Spanish'}, {'persons': 4.0, 'persons_percent': 0.18948365703458078, 'language': u'German'}, {'persons': 3.0, 'persons_percent': 0.14211274277593558, 'language': u'Croatian'}, {'persons': 3.0, 'persons_percent': 0.14211274277593558, 'language': u'Tagalog (includes Filipino)'}, {'persons': 3.0, 'persons_percent': 0.14211274277593558, 'language': u'Thai'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Arabic (includes Lebanese)'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Assyrian'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Australian Indigenous Languages'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Mandarin'}, {'persons': 0.0, 'persons_percent': 0, 'language': 'Other Chinese'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Dutch(c)'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Greek'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Hindi'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Indonesian'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Japanese'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Khmer'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Korean'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Macedonian'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Maltese'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Persian (includes Dari)'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Portuguese'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Punjabi'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Russian'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Samoan'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Serbian'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Sinhalese'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Tamil'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Turkish'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Vietnamese'}]",
+        "[{'persons': 9.0, 'persons_percent': 0.27615833077631174, 'language': u'German'}, {'persons': 8.0, 'persons_percent': 0.245474071801166, 'language': u'Spanish'}, {'persons': 6.0, 'persons_percent': 0.18410555385087451, 'language': u'French'}, {'persons': 3.0, 'persons_percent': 0.09205277692543726, 'language': u'Dutch(c)'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Arabic (includes Lebanese)'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Assyrian'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Australian Indigenous Languages'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Cantonese'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Mandarin'}, {'persons': 0.0, 'persons_percent': 0, 'language': 'Other Chinese'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Croatian'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Greek'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Hindi'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Indonesian'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Italian'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Japanese'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Khmer'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Korean'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Macedonian'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Maltese'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Persian (includes Dari)'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Polish'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Portuguese'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Punjabi'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Russian'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Samoan'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Serbian'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Sinhalese'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Tagalog (includes Filipino)'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Tamil'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Thai'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Turkish'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Vietnamese'}]",
+        "[{'persons': 14.0, 'persons_percent': 0.18410555385087451, 'language': u'French'}, {'persons': 12.0, 'persons_percent': 0.27615833077631174, 'language': u'German'}, {'persons': 12.0, 'persons_percent': 0, 'language': u'Tagalog (includes Filipino)'}, {'persons': 9.0, 'persons_percent': 0, 'language': u'Arabic (includes Lebanese)'}, {'persons': 8.0, 'persons_percent': 0.245474071801166, 'language': u'Spanish'}, {'persons': 7.0, 'persons_percent': 0, 'language': u'Greek'}, {'persons': 7.0, 'persons_percent': 0, 'language': u'Italian'}, {'persons': 6.0, 'persons_percent': 0.09205277692543726, 'language': u'Dutch(c)'}, {'persons': 3.0, 'persons_percent': 0, 'language': u'Cantonese'}, {'persons': 3.0, 'persons_percent': 0, 'language': u'Maltese'}, {'persons': 3.0, 'persons_percent': 0, 'language': u'Polish'}, {'persons': 3.0, 'persons_percent': 0, 'language': u'Tamil'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Assyrian'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Australian Indigenous Languages'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Mandarin'}, {'persons': 0.0, 'persons_percent': 0, 'language': 'Other Chinese'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Croatian'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Hindi'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Indonesian'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Japanese'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Khmer'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Korean'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Macedonian'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Persian (includes Dari)'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Portuguese'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Punjabi'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Russian'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Samoan'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Serbian'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Sinhalese'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Thai'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Turkish'}, {'persons': 0.0, 'persons_percent': 0, 'language': u'Vietnamese'}]"
+    ],
+    "ancestries": [
+        "[{'persons': 876.0, 'persons_percent': 34.21875}, {'persons': 864.0, 'persons_percent': 33.75}, {'persons': 317.0, 'persons_percent': 12.3828125}, {'persons': 83.0, 'persons_percent': 3.2421875000000004}, {'persons': 77.0, 'persons_percent': 3.0078125}, {'persons': 72.0, 'persons_percent': 2.8125}, {'persons': 25.0, 'persons_percent': 0.9765625}, {'persons': 18.0, 'persons_percent': 0.703125}, {'persons': 15.0, 'persons_percent': 0.5859375}, {'persons': 11.0, 'persons_percent': 0.42968750000000006}, {'persons': 11.0, 'persons_percent': 0.42968750000000006}, {'persons': 10.0, 'persons_percent': 0.390625}, {'persons': 9.0, 'persons_percent': 0.3515625}, {'persons': 8.0, 'persons_percent': 0.3125}, {'persons': 6.0, 'persons_percent': 0.234375}, {'persons': 4.0, 'persons_percent': 0.15625}, {'persons': 3.0, 'persons_percent': 0.1171875}, {'persons': 3.0, 'persons_percent': 0.1171875}, {'persons': 3.0, 'persons_percent': 0.1171875}, {'persons': 3.0, 'persons_percent': 0.1171875}, {'persons': 3.0, 'persons_percent': 0.1171875}, {'persons': 3.0, 'persons_percent': 0.1171875}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}]",
+        "[{'persons': 1049.0, 'persons_percent': 34.70062851472048}, {'persons': 925.0, 'persons_percent': 30.598742970559044}, {'persons': 305.0, 'persons_percent': 10.089315249751902}, {'persons': 225.0, 'persons_percent': 7.442937479325174}, {'persons': 94.0, 'persons_percent': 3.1094938802514056}, {'persons': 89.0, 'persons_percent': 2.9440952695997353}, {'persons': 27.0, 'persons_percent': 0.8931524975190208}, {'persons': 25.0, 'persons_percent': 0.8269930532583526}, {'persons': 23.0, 'persons_percent': 0.7608336089976844}, {'persons': 17.0, 'persons_percent': 0.5623552762156798}, {'persons': 13.0, 'persons_percent': 0.4300363876943433}, {'persons': 11.0, 'persons_percent': 0.36387694343367516}, {'persons': 9.0, 'persons_percent': 0.29771749917300694}, {'persons': 8.0, 'persons_percent': 0.2646377770426729}, {'persons': 6.0, 'persons_percent': 0.19847833278200464}, {'persons': 6.0, 'persons_percent': 0.19847833278200464}, {'persons': 5.0, 'persons_percent': 0.16539861065167052}, {'persons': 3.0, 'persons_percent': 0.09923916639100232}, {'persons': 3.0, 'persons_percent': 0.09923916639100232}, {'persons': 3.0, 'persons_percent': 0.09923916639100232}, {'persons': 3.0, 'persons_percent': 0.09923916639100232}, {'persons': 3.0, 'persons_percent': 0.09923916639100232}, {'persons': 3.0, 'persons_percent': 0.09923916639100232}, {'persons': 3.0, 'persons_percent': 0.09923916639100232}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}]",
+        "[{'persons': 1373.0, 'persons_percent': 30.667857940585215}, {'persons': 1345.0, 'persons_percent': 30.042439133348225}, {'persons': 505.0, 'persons_percent': 11.279874916238553}, {'persons': 383.0, 'persons_percent': 8.554835827563101}, {'persons': 140.0, 'persons_percent': 3.127094036184945}, {'persons': 130.0, 'persons_percent': 2.903730176457449}, {'persons': 54.0, 'persons_percent': 1.206164842528479}, {'persons': 53.0, 'persons_percent': 1.1838284565557293}, {'persons': 34.0, 'persons_percent': 0.7594371230734867}, {'persons': 29.0, 'persons_percent': 0.6477551932097387}, {'persons': 23.0, 'persons_percent': 0.513736877373241}, {'persons': 22.0, 'persons_percent': 0.4914004914004914}, {'persons': 21.0, 'persons_percent': 0.4690641054277418}, {'persons': 18.0, 'persons_percent': 0.40205494750949294}, {'persons': 17.0, 'persons_percent': 0.3797185615367433}, {'persons': 13.0, 'persons_percent': 0.2903730176457449}, {'persons': 12.0, 'persons_percent': 0.2680366316729953}, {'persons': 10.0, 'persons_percent': 0.2233638597274961}, {'persons': 9.0, 'persons_percent': 0.20102747375474647}, {'persons': 9.0, 'persons_percent': 0.20102747375474647}, {'persons': 6.0, 'persons_percent': 0.13401831583649765}, {'persons': 4.0, 'persons_percent': 0.08934554389099844}, {'persons': 3.0, 'persons_percent': 0.06700915791824882}, {'persons': 3.0, 'persons_percent': 0.06700915791824882}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}, {'persons': 0.0, 'persons_percent': 0}]"
+    ],
+    "defacto_males": [
+        75.0,
+        106.0,
+        126.0
+    ],
+    "dwelling_other_or_not_stated_percent": [
+        7.173913043478261,
+        8.301158301158301,
+        1.144492131616595
+    ],
+    "percent_female": [
+        49.38212927756654,
+        49.430324276950046,
+        49.27891991408407
+    ],
+    "total_relationship_males": [
+        780.0,
+        834.0,
+        1172.0
+    ],
+    "indig_persons": [
+        7.0,
+        34.0,
+        44.0
+    ],
+    "sa2_code": [
+        101021007,
+        101021007,
+        101021007
+    ],
+    "percent_male": [
+        50.61787072243346,
+        50.569675723049954,
+        50.72108008591593
+    ],
+    "male": [
+        1065.0,
+        1154.0,
+        1653.0
+    ],
+    "housing_other_or_not_stated_percent": [
+        3.903559127439724,
+        2.358974358974359,
+        2.601377199693956
+    ],
+    "seperate_house": [
+        803.0,
+        918.0,
+        1237.0
+    ],
+    "persons": [
+        2104.0,
+        2282.0,
+        3259.0
+    ],
+    "total_indig_status_males": [
+        1054.0,
+        1150.0,
+        1649.0
+    ],
+    "percent_indig_persons": [
+        0.33396946564885494,
+        1.4945054945054945,
+        1.353429713934174
+    ],
+    "semi_or_townhouse_percent": [
+        2.2962112514351323,
+        1.5384615384615385,
+        1.5384615384615385
+    ],
+    "total_indig_status_females": [
+        1042.0,
+        1125.0,
+        1602.0
+    ],
+    "semi_or_townhouse": [
+        20.0,
+        15.0,
+        15.0
+    ],
+    "not_stated_indig_males": [
+        28.0,
+        60.0,
+        110.0
+    ],
+    "dwelling_rented": [
+        199.0,
+        200.0,
+        19.0
+    ],
+    "percent_defacto_females": [
+        9.205548549810844,
+        12.032710280373832,
+        11.591695501730104
+    ],
+    "dwelling_other_or_not_stated": [
+        66.0,
+        86.0,
+        16.0
+    ],
+    "not_stated_indig_persons": [
+        76.0,
+        96.0,
+        211.0
+    ],
+    "percent_married_females": [
+        53.34174022698613,
+        51.63551401869159,
+        53.28719723183391
+    ],
+    "seperate_house_percent": [
+        92.19288174512054,
+        94.15384615384616,
+        94.64422341239481
+    ],
+    "non_indig_persons": [
+        2013.0,
+        2145.0,
+        2996.0
+    ],
+    "religions": [
+        "[{'religion': u'Anglican', 'persons_percent': 31.818181818181817, 'persons': 665.0}, {'religion': u'Catholic', 'persons_percent': 27.320574162679428, 'persons': 571.0}, {'religion': u'No religion(e)', 'persons_percent': 16.650717703349283, 'persons': 348.0}, {'religion': u'Religious affiliation not stated', 'persons_percent': 9.186602870813397, 'persons': 192.0}, {'religion': u'Uniting Church', 'persons_percent': 5.69377990430622, 'persons': 119.0}, {'religion': u'Presbyterian and Reformed', 'persons_percent': 3.014354066985646, 'persons': 63.0}, {'religion': u'Other religious affiliation(f)', 'persons_percent': 1.4832535885167464, 'persons': 31.0}, {'religion': u'Christian, nfd(d)', 'persons_percent': 0.8133971291866028, 'persons': 17.0}, {'religion': u'Lutheran', 'persons_percent': 0.7655502392344498, 'persons': 16.0}, {'religion': u'Other Religious Groups', 'persons_percent': 0.6698564593301436, 'persons': 14.0}, {'religion': u'Baptist', 'persons_percent': 0.5741626794258373, 'persons': 12.0}, {'religion': u'Latter-day Saints', 'persons_percent': 0.28708133971291866, 'persons': 6.0}, {'religion': u'Pentecostal', 'persons_percent': 0.28708133971291866, 'persons': 6.0}, {'religion': u'Eastern Orthodox(b)', 'persons_percent': 0.14354066985645933, 'persons': 3.0}, {'religion': u\"Jehovah's Witnesses\", 'persons_percent': 0.14354066985645933, 'persons': 3.0}, {'religion': u'Salvation Army', 'persons_percent': 0.14354066985645933, 'persons': 3.0}, {'religion': u'Assyrian Apostolic(a)', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Brethren', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Churches of Christ', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Oriental Orthodox(c)', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Other Protestant', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Seventh-day Adventist', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Other Christian', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Hinduism', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Islam', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Judaism', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Australian Aboriginal Traditional Religions', 'persons_percent': 0, 'persons': 0.0}]",
+        "[{'religion': u'Anglican', 'persons_percent': 28.37719298245614, 'persons': 647.0}, {'religion': u'Catholic', 'persons_percent': 26.666666666666668, 'persons': 608.0}, {'religion': u'No religion(e)', 'persons_percent': 20.74561403508772, 'persons': 473.0}, {'religion': u'Religious affiliation not stated', 'persons_percent': 10.921052631578949, 'persons': 249.0}, {'religion': u'Uniting Church', 'persons_percent': 4.692982456140351, 'persons': 107.0}, {'religion': u'Presbyterian and Reformed', 'persons_percent': 2.93859649122807, 'persons': 67.0}, {'religion': u'Christian, nfd(d)', 'persons_percent': 0.9649122807017544, 'persons': 22.0}, {'religion': u'Lutheran', 'persons_percent': 0.8333333333333334, 'persons': 19.0}, {'religion': u'Other religious affiliation(f)', 'persons_percent': 0.5701754385964912, 'persons': 13.0}, {'religion': u'Other Religious Groups', 'persons_percent': 0.43859649122807015, 'persons': 10.0}, {'religion': u'Pentecostal', 'persons_percent': 0.3508771929824561, 'persons': 8.0}, {'religion': u'Baptist', 'persons_percent': 0.30701754385964913, 'persons': 7.0}, {'religion': u'Other Christian', 'persons_percent': 0.17543859649122806, 'persons': 4.0}, {'religion': u'Brethren', 'persons_percent': 0.13157894736842105, 'persons': 3.0}, {'religion': u'Churches of Christ', 'persons_percent': 0.13157894736842105, 'persons': 3.0}, {'religion': u'Eastern Orthodox(b)', 'persons_percent': 0.13157894736842105, 'persons': 3.0}, {'religion': u'Hinduism', 'persons_percent': 0.13157894736842105, 'persons': 3.0}, {'religion': u'Islam', 'persons_percent': 0.13157894736842105, 'persons': 3.0}, {'religion': u'Assyrian Apostolic(a)', 'persons_percent': 0, 'persons': 0.0}, {'religion': u\"Jehovah's Witnesses\", 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Latter-day Saints', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Oriental Orthodox(c)', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Other Protestant', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Salvation Army', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Seventh-day Adventist', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Judaism', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Australian Aboriginal Traditional Religions', 'persons_percent': 0, 'persons': 0.0}]",
+        "[{'religion': u'No religion(e)', 'persons_percent': 26.26572568272476, 'persons': 856.0}, {'religion': u'Anglican', 'persons_percent': 24.5474071801166, 'persons': 800.0}, {'religion': u'Catholic', 'persons_percent': 24.11782755446456, 'persons': 786.0}, {'religion': u'Religious affiliation not stated', 'persons_percent': 10.309911015648971, 'persons': 336.0}, {'religion': u'Uniting Church', 'persons_percent': 4.387849033445843, 'persons': 143.0}, {'religion': u'Presbyterian and Reformed', 'persons_percent': 3.0377416385394294, 'persons': 99.0}, {'religion': u'Christian, nfd(d)', 'persons_percent': 1.8103712795335993, 'persons': 59.0}, {'religion': u'Other religious affiliation(f)', 'persons_percent': 0.9205277692543725, 'persons': 30.0}, {'religion': u'Other Religious Groups', 'persons_percent': 0.6443694384780607, 'persons': 21.0}, {'religion': u'Lutheran', 'persons_percent': 0.613685179502915, 'persons': 20.0}, {'religion': u\"Jehovah's Witnesses\", 'persons_percent': 0.5523166615526235, 'persons': 18.0}, {'religion': u'Pentecostal', 'persons_percent': 0.36821110770174903, 'persons': 12.0}, {'religion': u'Eastern Orthodox(b)', 'persons_percent': 0.33752684872660327, 'persons': 11.0}, {'religion': u'Salvation Army', 'persons_percent': 0.27615833077631174, 'persons': 9.0}, {'religion': u'Hinduism', 'persons_percent': 0.245474071801166, 'persons': 8.0}, {'religion': u'Churches of Christ', 'persons_percent': 0.18410555385087451, 'persons': 6.0}, {'religion': u'Seventh-day Adventist', 'persons_percent': 0.09205277692543726, 'persons': 3.0}, {'religion': u'Other Christian', 'persons_percent': 0.09205277692543726, 'persons': 3.0}, {'religion': u'Assyrian Apostolic(a)', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Baptist', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Brethren', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Latter-day Saints', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Oriental Orthodox(c)', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Other Protestant', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Islam', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Judaism', 'persons_percent': 0, 'persons': 0.0}, {'religion': u'Australian Aboriginal Traditional Religions', 'persons_percent': 0, 'persons': 0.0}]"
+    ],
+    "defacto_females": [
+        73.0,
+        103.0,
+        134.0
+    ],
+    "flat_or_unit": [
+        14.0,
+        19.0,
+        5.0
+    ],
+    "flat_or_unit_percent": [
+        1.6073478760045925,
+        1.948717948717949,
+        0.3825554705432288
+    ],
+    "not_stated_indig_females": [
+        48.0,
+        36.0,
+        101.0
+    ],
+    "percent_notmarried_females": [
+        37.452711223203025,
+        36.331775700934585,
+        35.121107266435985
+    ],
+    "sa2_name": [
+        "Braidwood",
+        "Braidwood",
+        "Braidwood"
+    ],
+    "countries_of_birth": [
+        "[{'country': u'Australia', 'percent_persons': 82.13610586011342, 'males': 882.0, 'females': 856.0, 'persons': 1738.0}, {'country': u'United Kingdom, Channel Islands and Isle of Man(d)', 'percent_persons': 5.954631379962192, 'males': 66.0, 'females': 60.0, 'persons': 126.0}, {'country': u'New Zealand', 'percent_persons': 0.8034026465028355, 'males': 9.0, 'females': 8.0, 'persons': 17.0}, {'country': u'Germany', 'percent_persons': 0.7561436672967864, 'males': 7.0, 'females': 9.0, 'persons': 16.0}, {'country': u'United States of America', 'percent_persons': 0.33081285444234404, 'males': 3.0, 'females': 4.0, 'persons': 7.0}, {'country': u'Canada', 'percent_persons': 0.28355387523629494, 'males': 3.0, 'females': 3.0, 'persons': 6.0}, {'country': u'China (excl. SARs and Taiwan)(b)', 'percent_persons': 0.28355387523629494, 'males': 3.0, 'females': 3.0, 'persons': 6.0}, {'country': u'Ireland', 'percent_persons': 0.28355387523629494, 'males': 3.0, 'females': 3.0, 'persons': 6.0}, {'country': u'Netherlands', 'percent_persons': 0.28355387523629494, 'males': 3.0, 'females': 3.0, 'persons': 6.0}, {'country': u'Egypt', 'percent_persons': 0.14177693761814747, 'males': 0.0, 'females': 3.0, 'persons': 3.0}, {'country': u'Italy', 'percent_persons': 0.14177693761814747, 'males': 3.0, 'females': 0.0, 'persons': 3.0}, {'country': u'Japan', 'percent_persons': 0.14177693761814747, 'males': 0.0, 'females': 3.0, 'persons': 3.0}, {'country': u'Philippines', 'percent_persons': 0.14177693761814747, 'males': 0.0, 'females': 3.0, 'persons': 3.0}, {'country': u'Poland', 'percent_persons': 0.14177693761814747, 'males': 0.0, 'females': 3.0, 'persons': 3.0}, {'country': u'South Africa', 'percent_persons': 0.14177693761814747, 'males': 0.0, 'females': 3.0, 'persons': 3.0}, {'country': u'South Eastern Europe, nfd(c)', 'percent_persons': 0.14177693761814747, 'males': 3.0, 'females': 0.0, 'persons': 3.0}, {'country': u'Sri Lanka', 'percent_persons': 0.14177693761814747, 'males': 3.0, 'females': 0.0, 'persons': 3.0}, {'country': u'Bosnia and Herzegovina', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Cambodia', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Croatia', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Fiji', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Former Yugoslav Republic of Macedonia (FYROM)', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Greece', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Hong Kong (SAR of China)(b)', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'India', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Indonesia', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Iraq', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Korea, Republic of (South)', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Lebanon', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Malaysia', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Malta', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Singapore', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Thailand', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Turkey', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}]",
+        "[{'country': u'Australia', 'percent_persons': 82.3761508110478, 'males': 941.0, 'females': 938.0, 'persons': 1879.0}, {'country': u'United Kingdom, Channel Islands and Isle of Man(d)', 'percent_persons': 5.874616396317404, 'males': 64.0, 'females': 70.0, 'persons': 134.0}, {'country': u'New Zealand', 'percent_persons': 1.1398509425690488, 'males': 9.0, 'females': 17.0, 'persons': 26.0}, {'country': u'Germany', 'percent_persons': 0.7452871547566856, 'males': 7.0, 'females': 10.0, 'persons': 17.0}, {'country': u'United States of America', 'percent_persons': 0.4384042086804033, 'males': 3.0, 'females': 7.0, 'persons': 10.0}, {'country': u'Netherlands', 'percent_persons': 0.394563787812363, 'males': 3.0, 'females': 6.0, 'persons': 9.0}, {'country': u'Malaysia', 'percent_persons': 0.17536168347216133, 'males': 0.0, 'females': 4.0, 'persons': 4.0}, {'country': u'Canada', 'percent_persons': 0.131521262604121, 'males': 3.0, 'females': 0.0, 'persons': 3.0}, {'country': u'Hong Kong (SAR of China)(b)', 'percent_persons': 0.131521262604121, 'males': 3.0, 'females': 0.0, 'persons': 3.0}, {'country': u'India', 'percent_persons': 0.131521262604121, 'males': 3.0, 'females': 0.0, 'persons': 3.0}, {'country': u'Indonesia', 'percent_persons': 0.131521262604121, 'males': 3.0, 'females': 0.0, 'persons': 3.0}, {'country': u'Ireland', 'percent_persons': 0.131521262604121, 'males': 3.0, 'females': 0.0, 'persons': 3.0}, {'country': u'Italy', 'percent_persons': 0.131521262604121, 'males': 3.0, 'females': 0.0, 'persons': 3.0}, {'country': u'Malta', 'percent_persons': 0.131521262604121, 'males': 3.0, 'females': 0.0, 'persons': 3.0}, {'country': u'South Eastern Europe, nfd(c)', 'percent_persons': 0.131521262604121, 'males': 0.0, 'females': 3.0, 'persons': 3.0}, {'country': u'Bosnia and Herzegovina', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Cambodia', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'China (excl. SARs and Taiwan)(b)', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Croatia', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Egypt', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Fiji', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Former Yugoslav Republic of Macedonia (FYROM)', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Greece', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Iraq', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Japan', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Korea, Republic of (South)', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Lebanon', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Philippines', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Poland', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Singapore', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'South Africa', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Sri Lanka', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Thailand', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Turkey', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}]",
+        "[{'country': u'Australia', 'percent_persons': 80.30674846625767, 'males': 1342.0, 'females': 1276.0, 'persons': 2618.0}, {'country': u'United Kingdom, Channel Islands and Isle of Man(d)', 'percent_persons': 5.061349693251533, 'males': 74.0, 'females': 91.0, 'persons': 165.0}, {'country': u'New Zealand', 'percent_persons': 1.2883435582822087, 'males': 23.0, 'females': 19.0, 'persons': 42.0}, {'country': u'Germany', 'percent_persons': 0.7668711656441718, 'males': 13.0, 'females': 12.0, 'persons': 25.0}, {'country': u'Netherlands', 'percent_persons': 0.5828220858895705, 'males': 9.0, 'females': 10.0, 'persons': 19.0}, {'country': u'United States of America', 'percent_persons': 0.4294478527607362, 'males': 10.0, 'females': 4.0, 'persons': 14.0}, {'country': u'Philippines', 'percent_persons': 0.3374233128834356, 'males': 5.0, 'females': 6.0, 'persons': 11.0}, {'country': u'South Africa', 'percent_persons': 0.27607361963190186, 'males': 6.0, 'females': 3.0, 'persons': 9.0}, {'country': u'Italy', 'percent_persons': 0.2147239263803681, 'males': 4.0, 'females': 3.0, 'persons': 7.0}, {'country': u'Ireland', 'percent_persons': 0.18404907975460122, 'males': 0.0, 'females': 6.0, 'persons': 6.0}, {'country': u'India', 'percent_persons': 0.1226993865030675, 'males': 4.0, 'females': 0.0, 'persons': 4.0}, {'country': u'South Eastern Europe, nfd(c)', 'percent_persons': 0.1226993865030675, 'males': 4.0, 'females': 0.0, 'persons': 4.0}, {'country': u'Canada', 'percent_persons': 0.09202453987730061, 'males': 0.0, 'females': 3.0, 'persons': 3.0}, {'country': u'China (excl. SARs and Taiwan)(b)', 'percent_persons': 0.09202453987730061, 'males': 0.0, 'females': 3.0, 'persons': 3.0}, {'country': u'Greece', 'percent_persons': 0.09202453987730061, 'males': 3.0, 'females': 0.0, 'persons': 3.0}, {'country': u'Malaysia', 'percent_persons': 0.09202453987730061, 'males': 0.0, 'females': 3.0, 'persons': 3.0}, {'country': u'Malta', 'percent_persons': 0.09202453987730061, 'males': 0.0, 'females': 3.0, 'persons': 3.0}, {'country': u'Poland', 'percent_persons': 0.09202453987730061, 'males': 0.0, 'females': 3.0, 'persons': 3.0}, {'country': u'Sri Lanka', 'percent_persons': 0.09202453987730061, 'males': 0.0, 'females': 3.0, 'persons': 3.0}, {'country': u'Bosnia and Herzegovina', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Cambodia', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Croatia', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Egypt', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Fiji', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Former Yugoslav Republic of Macedonia (FYROM)', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Hong Kong (SAR of China)(b)', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Indonesia', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Iraq', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Japan', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Korea, Republic of (South)', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Lebanon', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Singapore', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Thailand', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}, {'country': u'Turkey', 'percent_persons': 0, 'males': 0.0, 'females': 0.0, 'persons': 0.0}]"
+    ],
+    "housing_other_or_not_stated": [
+        34.0,
+        23.0,
+        34.0
+    ],
+    "median_rent": [
+        100.0,
+        150.0,
+        200.0
+    ],
+    "notmarried_males": [
+        278.0,
+        292.0,
+        425.0
+    ]
+}
